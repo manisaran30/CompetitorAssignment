@@ -112,7 +112,3 @@ Feel free to reach out for improvements or suggestions:
 [GitHub: @manisaran30](https://github.com/manisaran30)
 
 ---
-
-```
-
-Let me know if you'd like a version of this README tailored for a website with HTML/JS or if you want to convert this output to CSV as well.
