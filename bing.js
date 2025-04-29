@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const serpApiKey = '789ad045f6dcfa630c53976ae42f57b46d2b07b06f743b82b1154e71a35d39c8';
+const serpApiKey = ''; //Use Your API Key
 const targetCompany = 'Virgin Media';
 
 // Step 1: Get competitors dynamically
