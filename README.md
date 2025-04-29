@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🕵️ Competitor Intelligence Tool for Enterprise Sales
 
